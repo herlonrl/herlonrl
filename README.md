@@ -5,6 +5,7 @@
 
 Know about my experiences [LinkedIn](https://www.linkedin.com/in/herlonromualdoludwig1967/)
 <br />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=herlonrl&show_icons=true&include_all_commits&theme=dracula&locale=en" alt="herlonrl" />
