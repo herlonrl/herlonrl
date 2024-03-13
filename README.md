@@ -29,7 +29,7 @@ Know about my experiences [LinkedIn](https://www.linkedin.com/in/herlonromualdol
 <br />
 
 ## Languages and Tools:
-<!--
+
 <p align="left">
     <a href="https://getbootstrap.com/" target="_blank">
         <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" />
@@ -74,4 +74,4 @@ Know about my experiences [LinkedIn](https://www.linkedin.com/in/herlonromualdol
         <img src="icons/msql.svg" alt="MySQL" width="40" height="40" /> 
     </a>
 </p>
--->
+
