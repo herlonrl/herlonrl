@@ -3,7 +3,7 @@
 ### I'm Herlon Ludwig.
 ### A passionate technology student from Brazil.
 
-Know about my experiences [LinkedIn](https://www.linkedin.com/in/herlonromualdoludwig1967/)
+Know about my experiences [LinkedIn](https://www.linkedin.com/in/ludwig1967/)
 <br />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div>
