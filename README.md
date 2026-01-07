@@ -31,9 +31,6 @@ Know about my experiences [LinkedIn](https://www.linkedin.com/in/ludwighr)
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" />
-    </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="icons/csharp.svg" alt="C Sharp" width="40" height="40" /> 
     </a> 
@@ -45,12 +42,6 @@ Know about my experiences [LinkedIn](https://www.linkedin.com/in/ludwighr)
     </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="icons/pandas.svg" alt="Pandas" width="80" height="40" /> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
