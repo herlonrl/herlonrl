@@ -4,29 +4,9 @@
 ### A passionate technology student from Brazil.
 
 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ludwighr)
-<br />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=herlonrl&show_icons=true&include_all_commits&theme=dracula&locale=en" alt="herlonrl" />
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=herlonrl&show_icons=true&include_all_commits&theme=dracula&locale=en&layout=compact" alt="herlonrl" />
-    </p>
-    <br />
-</div>
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 ## Languages and Tools:
 
