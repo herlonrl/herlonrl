@@ -7,7 +7,13 @@ Know about my experiences [LinkedIn](https://www.linkedin.com/in/ludwighr)
 
 <br />
 
+<div>
+<a href="https://github.com/herlonrl">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herlonrl&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=herlonrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
+<br />
 ## Languages and Tools:
 
 <p align="left">
